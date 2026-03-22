@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperationsHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60f3793343d6bbd9347ad6c6bf2fdfdb86516b61")]
 [assembly: System.Reflection.AssemblyProductAttribute("OperationsHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperationsHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
